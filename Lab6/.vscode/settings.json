@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "taskpara.h": "c",
+        "kmalloc.h": "c",
+        "myprintk.h": "c",
+        "task.h": "c",
+        "taskarrv.h": "c",
+        "scheduler.h": "c"
+    }
+}
